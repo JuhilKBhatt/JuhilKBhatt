@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" />
   <img src="https://img.shields.io/badge/Backend-Flask-informational?style=flat&logo=flask&color=000000" />
   <img src="https://img.shields.io/badge/Game%20Engine-Unity-informational?style=flat&logo=unity&color=000000" />
-  <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&color=F24E1E" />
   <img src="https://img.shields.io/badge/OS-Ubuntu%20Server-informational?style=flat&logo=ubuntu&color=E95420" />
 </p>
 
